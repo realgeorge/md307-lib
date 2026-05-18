@@ -1,0 +1,5 @@
+.vscode/
+build/
+device/
+md307-runtime.a
+compile_commands.json
