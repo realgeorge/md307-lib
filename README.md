@@ -21,7 +21,7 @@ Initialize an empty C template using the VS Code extension:
 - MDx07: Initialize Project -> Basic templates -> MD307 C project
 
 Replace the Makefile, as well as the template src directory, with those located
-in this repo.
+in this repo and copy the include directory into the project.
 
 ## Linux users
 
