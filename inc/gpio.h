@@ -99,7 +99,7 @@ typedef struct {
     };
     union {
         // Port input data register (read only)
-        uint32_t INDR : 1;
+        uint32_t INDR;
         struct {
             uint32_t pin0  : 1;
             uint32_t pin1  : 1;
